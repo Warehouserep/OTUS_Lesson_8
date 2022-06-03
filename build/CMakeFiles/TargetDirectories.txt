@@ -1,0 +1,8 @@
+E:/Courses/OTUS_C++/Lesson_8/Lesson_8/source_8/source_8/build/CMakeFiles/lec_08_01_struct.dir
+E:/Courses/OTUS_C++/Lesson_8/Lesson_8/source_8/source_8/build/CMakeFiles/lec_08_02_struct_stream.dir
+E:/Courses/OTUS_C++/Lesson_8/Lesson_8/source_8/source_8/build/CMakeFiles/lec_08_03_struct_operators.dir
+E:/Courses/OTUS_C++/Lesson_8/Lesson_8/source_8/source_8/build/CMakeFiles/lec_08_04_struct_nested.dir
+E:/Courses/OTUS_C++/Lesson_8/Lesson_8/source_8/source_8/build/CMakeFiles/lec_08_05_struct_inheritance.dir
+E:/Courses/OTUS_C++/Lesson_8/Lesson_8/source_8/source_8/build/CMakeFiles/lec_08_06_class.dir
+E:/Courses/OTUS_C++/Lesson_8/Lesson_8/source_8/source_8/build/CMakeFiles/ALL_BUILD.dir
+E:/Courses/OTUS_C++/Lesson_8/Lesson_8/source_8/source_8/build/CMakeFiles/ZERO_CHECK.dir
